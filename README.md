@@ -13,7 +13,7 @@ I'm a Mobile Engineer. I'm passionate about building products and solving proble
 * ⚡  Fun fact: I love watching anime😊
 
 <a href="https://www.github.com/chaos10001" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/chaos10001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/DevChaos0" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/devchaos0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/DevChaos0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DevChaos0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
